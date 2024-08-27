@@ -1,6 +1,6 @@
 # ReactTextToolkit
 
-**ReactTextToolkit** is a versatile text manipulation tool built with React. It offers a variety of features to transform, format, and analyze text, making it a useful tool for anyone who frequently works with text data.
+**ReactTextToolkit** is a versatile text manipulation tool built with React. It offers a variety of features to transform, format, and analyze text, making it a useful tool for anyone who frequently works with text data. 
 
 ## Features
 
