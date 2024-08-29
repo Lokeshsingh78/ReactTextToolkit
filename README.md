@@ -10,7 +10,7 @@
 - **Reverse Text:** Reverse the order of characters in the text.
 - **Capitalize Text:** Capitalize the first letter of each word.
 - **Copy Text:** Copy the text to the clipboard.
-- **Remove Extra Spaces:** Trim excess spaces between words.
+- **Remove Extra Spaces:** Trim excess spaces between words. 
 
 ## Usage
 
