@@ -7,7 +7,7 @@
 - **Convert to Uppercase:** Transform all text to uppercase.
 - **Convert to Lowercase:** Transform all text to lowercase.
 - **Clear Text:** Remove all text from the input area.
-- **Reverse Text:** Reverse the order of characters in the text.
+- **Reverse Text:** Reverse the order of characters in the text. 
 - **Capitalize Text:** Capitalize the first letter of each word.
 - **Copy Text:** Copy the text to the clipboard.
 - **Remove Extra Spaces:** Trim excess spaces between words. 
