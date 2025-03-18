@@ -32,7 +32,41 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.container h1 {
+  margin: 20px 0;
+}
+
+.form-control {
+  padding: 10px 12px;
+  background: transparent;
+}
+
+.dark-mode .form-control {
+  color: #ffffff;
+}
+
+.form-control::placeholder {
+  color: #ffffff;
+}
+
+.light-mode .form-control::placeholder {
+  color: black;
+}
+
+.form-control:focus {
+  background: transparent;
+}
+
+.light-mode .form-control {
+  border-color: black;
+}
+
+.my-3 p {
+  margin: 16px 0;
 }
